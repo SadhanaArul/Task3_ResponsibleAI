@@ -1,5 +1,5 @@
 
-# Task 4: Responsible AI & Model Interpretation
+# Task 3: Responsible AI & Model Interpretation
 
 ## 📌 Project Overview
 Model interpretability and fairness analysis on the Breast Cancer Classification model from Task 1.
